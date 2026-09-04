@@ -1,0 +1,14 @@
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/bin/Debug/net10.0/CSharpFundamentals
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/bin/Debug/net10.0/CSharpFundamentals.deps.json
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/bin/Debug/net10.0/CSharpFundamentals.runtimeconfig.json
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/bin/Debug/net10.0/CSharpFundamentals.dll
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/bin/Debug/net10.0/CSharpFundamentals.pdb
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.dll
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/refint/CSharpFundamentals.dll
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.pdb
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.genruntimeconfig.cache
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/ref/CSharpFundamentals.dll
