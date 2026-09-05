@@ -1,1 +1,1 @@
-﻿VariablesPractice.Run();
+﻿StudentGPACalc.Run();

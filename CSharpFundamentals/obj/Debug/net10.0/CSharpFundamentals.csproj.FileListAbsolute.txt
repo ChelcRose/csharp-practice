@@ -12,3 +12,4 @@
 /Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.pdb
 /Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.genruntimeconfig.cache
 /Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/ref/CSharpFundamentals.dll
+/Users/chelsearose/Documents/GitHub/csharp-practice/CSharpFundamentals/obj/Debug/net10.0/CSharpFundamentals.sourcelink.json
